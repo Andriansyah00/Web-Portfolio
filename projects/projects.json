@@ -1,0 +1,33 @@
+[
+  {
+    "name": "E-Kasir System",
+    "desc": "An electronic cashier system is used to manage sales and payment transactions in a business, such as a retail store, restaurant, or cafe.",
+    "image": "kasir.jpg",
+    "category": "wamp",
+    "links": {
+      "view": "https://github.com/Andriansyah00/Sistem-E-Kasir",
+      "code": "https://github.com/Andriansyah00/Sistem-E-Kasir"
+    }
+  },
+  {
+    "name": "Bookshelf App",
+    "desc": "This project is the final submission of dicoding's beginner front end developer bootcamp class. ",
+    "image": "bookshelf.png",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Andriansyah00/Bookshelf",
+      "code": "https://github.com/Andriansyah00/Bookshelf"
+    }
+  },
+
+  {
+    "name": "SPK Website",
+    "desc": "Decision Support System for best employee selection that helps companies assess employees objectively based on predetermined criteria.",
+    "image": "spk-project.jpg",
+    "category": "wamp",
+    "links": {
+      "view": "https://github.com/Andriansyah00/spk-ahp",
+      "code": "https://github.com/Andriansyah00/spk-ahp"
+    }
+  }
+]
