@@ -10,6 +10,26 @@
     }
   },
   {
+    "name": "SIS 2025",
+    "desc": "A web-based School Information System for managing students, teachers, classes, attendance, grades, and school administration efficiently.",
+    "image": "sis.png",
+    "category": "net",
+    "links": {
+      "view": "https://github.com/Andriansyah00/SIS2025",
+      "code": "https://github.com/Andriansyah00/SIS2025"
+    }
+  },
+  {
+    "name": "POS System",
+    "desc": "A web-based Point of Sale (POS) system designed to manage sales transactions, inventory, customers, and financial reports efficiently.",
+    "image": "mie.png",
+    "category": "net",
+    "links": {
+      "view": "https://github.com/Andriansyah00/MieAyam-POS",
+      "code": "https://github.com/Andriansyah00/MieAyam-POS"
+    }
+  },
+  {
     "name": "E-Kasir System",
     "desc": "An electronic cashier system is used to manage sales and payment transactions in a business, such as a retail store, restaurant, or cafe.",
     "image": "kasir.jpg",
